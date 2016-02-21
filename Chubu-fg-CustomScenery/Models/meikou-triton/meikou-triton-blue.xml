@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>meikou-triton-blue.ac</path>
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>25000</max-m>
+	</animation>
+
+  <animation> 
+    <type>textranslate</type> 
+    <object-name>poly.024</object-name> 
+    <object-name>poly.025</object-name>
+    <property>/sim/time/sun-angle-rad</property>
+    <step> 1.57 </step>
+    <factor>0.318471338</factor>
+    <center>
+     <x-m> 0 </x-m>
+     <y-m> 0 </y-m>
+     <z-m> 0 </z-m>
+    </center>
+    <axis> 
+      <x> -1 </x> 
+      <y>  0 </y> 
+      <z>  0 </z> 
+    </axis> 
+  </animation>
+
+  <animation>
+    <type>material</type>
+       <object-name>poly.024</object-name> 
+    <object-name>poly.025</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </greater-than>
+    </condition>
+    <emission>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  1.0 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>material</type>
+        <object-name>poly.024</object-name> 
+    <object-name>poly.025</object-name>
+    <condition>
+      <less-than-equals>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </less-than-equals>
+    </condition>
+    <emission>
+      <red>   0.0 </red>
+      <green> 0.0 </green>
+      <blue>  0.0 </blue>
+    </emission>
+  </animation>
+
+<!-- strobe -->
+    <animation>
+        <type>noshadow</type>
+        <object-name>strobe</object-name>
+        <object-name>line</object-name>
+    </animation>
+
+   <animation>
+        <type>alpha-test</type>
+        <alpha-factor>0.01</alpha-factor>
+    </animation>
+
+   <animation>
+        <type>select</type>
+        <object-name>strobe</object-name>
+        <condition>
+        <or>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>1</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>3</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>5</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>7</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>9</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>11</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>13</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>15</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>17</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>19</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>21</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>23</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>25</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>27</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>29</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>31</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>33</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>35</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>37</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>39</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>41</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>43</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>45</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>47</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>49</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>51</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>53</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>55</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>57</value>
+         </equals>
+         <equals>
+          <property>/sim/time/real/second</property>
+          <value>59</value>
+         </equals>
+         </or>
+        </condition>
+    </animation>
+
+
+</PropertyList>
+
+

@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "DefaultWhite.001" rgb 1 1 1 amb 1 1 1 emis 0.5 0.5 0.5 spec 0.5 0.5 0.5 shi 64 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "light"
+data 5
+light
+texture "RJNG_light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+-29.856634 -19.428858 -29.853939
+-29.856646 -19.428864 29.858749
+29.856035 -19.428864 29.858753
+29.856039 -19.428858 -29.853926
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+3 -1.02650301415e-06 0.847458660603
+0 -1.02650301415e-06 3.12650809065e-06
+1 0.499998927116 3.06690344587e-06
+2 0.499998927116 0.847458660603
+kids 0

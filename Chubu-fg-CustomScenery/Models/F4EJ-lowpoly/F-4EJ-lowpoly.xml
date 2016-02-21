@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>F-4EJ-lowpoly.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>14000</max-m>
+ </animation>
+
+</PropertyList>
+
+

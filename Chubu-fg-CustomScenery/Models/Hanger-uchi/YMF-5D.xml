@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>YMF-5D.ac</path>
+
+<model>
+	<path>Aircraft/YMF-5D/Models/engine/engine.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 0 </y-m>
+		<z-m> 0 </z-m>
+	</offsets>
+</model>
+
+
+</PropertyList>
+
+
+
+
+
+
+
+
+
+
+
+
+
