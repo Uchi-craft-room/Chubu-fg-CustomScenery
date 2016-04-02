@@ -52,7 +52,7 @@ OBJECT_SHARED Models/SOLAE/SOLAE.xml 136.81924736 35.24520261 3.9769 96.0 0.0 -0
 
 
 
-OBJECT_SHARED Models/nagoya-castle/nagoya-castle.ac 136.90067921 35.18426424 7.5110 93.3 0.0 -0.0
+OBJECT_SHARED Models/nagoya-castle/nagoya-castle.xml 136.90067921 35.18426424 7.5110 93.3 0.0 -0.0
        OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90153484 35.18294531 15.4148 0.0 0.0 -0.0 
        OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90430018 35.18255668 15.4240 0.0 0.0 -0.0 
        OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90390259 35.18251228 15.4224 0.0 0.0 -0.0 
