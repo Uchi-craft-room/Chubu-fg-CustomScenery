@@ -1,10 +1,10 @@
-OBJECT_SHARED Models/atsumi-power-plant/atsumi-power-cube.xml 137.06612995 34.65333290 -1.9623 328.0 0.0 -0.0
-OBJECT_SHARED Models/atsumi-power-plant/atsumi-power-plant.xml 137.06523777 34.65433771 0.0198 0.0 0.0 -0.0
-OBJECT_SHARED Models/atsumi-power-plant/atsumi-power-plant2.xml 137.06668234 34.65531718 0.0272 0.0 0.0 -0.0
-
 OBJECT_SHARED Models/Power/windturbine.xml 137.05414792 34.64132425 1.1366 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05162923 34.63640720 6.3855 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05279329 34.63865572 6.1219 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05345143 34.64001773 1.9438 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05214530 34.63743198 7.6974 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 137.048 34.7117 -0.32 166.64
 
+OBJECT_STATIC Models/atsumi-power-plant/atsumi-power-cube.xml 137.06612995 34.65333290 -1.9623 328.0 0.0 -0.0
+OBJECT_STATIC Models/atsumi-power-plant/atsumi-power-plant.xml 137.06523777 34.65433771 0.0198 0.0 0.0 -0.0
+OBJECT_STATIC Models/atsumi-power-plant/atsumi-power-plant2.xml 137.06668234 34.65531718 0.0272 0.0 0.0 -0.0
