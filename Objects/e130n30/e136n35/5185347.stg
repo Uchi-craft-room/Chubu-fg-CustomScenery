@@ -1,6 +1,10 @@
-OBJECT_STATIC Models/meikou-triton/meikou-triton-blue.xml 136.87957240 35.05333650 -0.0001 257.8 0.0 -0.0
-OBJECT_STATIC Models/meikou-triton/meikou-triton-white.xml 136.86070729 35.05348860 -0.0000 96.0 0.0 -0.0
-OBJECT_STATIC Models/meikou-triton/meikou-triton-red.xml 136.83537688 35.05169390 -0.0004 270.0 0.0 -0.0
-OBJECT_STATIC Models/wheels/wheel-seatrain.xml 136.87733494 35.09271249 5.3772 260.0 0.0 -0.0
-OBJECT_STATIC Models/chita-power-plant/chita-power-plant.xml 136.86263061 35.00745639 0.5440 0.0 0.0 -0.0
-OBJECT_STATIC Models/chita-power-plant/chita-power-cube2.xml 136.86365226 35.00625487 0.9936 328.0 0.0 -0.0
+OBJECT_SHARED Models/meikou-triton/meikou-triton-blue.xml 136.87957240 35.05333650 -0.0001 257.8 0.0 -0.0
+
+OBJECT_SHARED Models/meikou-triton/meikou-triton-white.xml 136.86070729 35.05348860 -0.0000 96.0 0.0 -0.0
+
+OBJECT_SHARED Models/meikou-triton/meikou-triton-red.xml 136.83537688 35.05169390 -0.0004 270.0 0.0 -0.0
+
+OBJECT_SHARED Models/wheels/wheel-seatrain.xml 136.87733494 35.09271249 5.3772 260.0 0.0 -0.0
+
+OBJECT_SHARED Models/chita-power-plant/chita-power-plant.xml 136.86263061 35.00745639 0.5440 0.0 0.0 -0.0
+OBJECT_SHARED Models/chita-power-plant/chita-power-cube2.xml 136.86365226 35.00625487 0.9936 328.0 0.0 -0.0

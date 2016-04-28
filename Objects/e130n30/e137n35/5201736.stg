@@ -1,3 +1,3 @@
-OBJECT_STATIC Models/seto-digital-tower/seto-digital-tower.xml 137.07329636 35.19561646 115.3985 224.0 0.0 -0.0
-OBJECT_STATIC Models/wheels/wheel-aichi.xml 137.07926680 35.17460591 98.4079 16.0 0.0 -0.0
+OBJECT_SHARED Models/seto-digital-tower/seto-digital-tower.xml 137.07329636 35.19561646 115.3985 224.0 0.0 -0.0
+OBJECT_SHARED Models/wheels/wheel-aichi.xml 137.07926680 35.17460591 98.4079 16.0 0.0 -0.0
 

@@ -1,173 +1,176 @@
-OBJECT_SHARED Models/Airport/ndb.ac 136.996567 35.142275 31.77 180
+OBJECT_SHARED Models/Airport/ndb.xml 136.996567 35.142275 31.77 180
 OBJECT_SHARED Models/Airport/ils.xml 136.928406 35.246761 12.19 27.91
-OBJECT_SHARED Models/Airport/marker.ac 136.937564 35.234761 16.19 180
-OBJECT_SHARED Models/Airport/marker.ac 136.996567 35.142275 31.77 180
-OBJECT_STATIC Models/nagoya-tv-tower/nagoya-tv-tower.xml 136.90825001 35.17221396 21.5954 97.3 0.0 -0.0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90855921 35.17194286 18.5703 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90863088 35.17145976 16.7941 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90868344 35.17107673 15.5427 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90869914 35.17087942 14.6291 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90873872 35.17059288 14.2495 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90876338 35.17040186 14.1023 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90801131 35.17198229 20.0306 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90804158 35.17182146 19.0427 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90806382 35.17169601 18.2683 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90809506 35.17146127 16.6457 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90813206 35.17128001 15.8238 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90816785 35.17106762 15.6429 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90818244 35.17090876 15.5322 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90820652 35.17073255 15.3922 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90823326 35.17053551 15.1737 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90824937 35.17041823 15.1454 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90817367 35.17177565 14.6052 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90842834 35.17161816 14.5947 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90827344 35.17126719 9.2030 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90850371 35.17107870 9.5846 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90835733 35.17071786 10.8146 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90846363 35.17259951 20.9817 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90842589 35.17285884 21.9343 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90840122 35.17312830 22.8946 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90837293 35.17335612 23.7218 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90837498 35.17351773 24.2638 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90796355 35.17242732 22.7499 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90789743 35.17279206 24.9070 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90785956 35.17306357 26.5387 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90783496 35.17325480 27.3104 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90780096 35.17342832 27.9316 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90778286 35.17356767 28.3437 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90831630 35.17271991 16.0670 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90803281 35.17302097 19.5045 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90814059 35.17341919 19.3939 0.0 0.0 -0.0 
-OBJECT_STATIC Models/JRCentralTowers/JRCentralTowers.xml 136.88293919 35.17202074 19.9722 113.9 0.0 -0.0
-OBJECT_STATIC Models/midland-square/midland-square.xml 136.88488734 35.17069805 15.3932 84.0 0.0 -0.0
-OBJECT_STATIC Models/Nagoya_Lucent_Tower/Nagoya_Lucent_Tower.xml 136.88074872 35.17469809 5.2077 304.0 0.0 -0.0
-OBJECT_STATIC Models/Spiral-towers/Spiral-towers.xml 136.88546803 35.16799481 20.9085 100.0 0.0 -0.0
-OBJECT_STATIC Models/dai-nagoya-building/dai-nagoya-building.xml 136.88442465 35.17239781 14.5600 52.0 0.0 -0.0
-OBJECT_STATIC Models/JP_Tower_Nagoya/JP_Tower_Nagoya.xml 136.88233527 35.17331906 9.1585 204.0 0.0 -0.0
-OBJECT_STATIC Models/higashiyama-tower/higashiyama-tower.xml 136.96778437 35.14714704 58.4405 0.0 0.0 -0.0
-OBJECT_STATIC Models/Astro-tower/Astro-tower.xml 136.91239334 35.21707113 4.7681 88.0 0.0 -0.0
-OBJECT_STATIC Models/SOLAE/SOLAE.xml 136.81924736 35.24520261 3.9769 96.0 0.0 -0.0
-OBJECT_STATIC Models/nagoya-castle/nagoya-castle.xml 136.90067921 35.18426424 7.5110 93.3 0.0 -0.0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90153484 35.18294531 15.4148 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90430018 35.18255668 15.4240 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90390259 35.18251228 15.4224 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90361172 35.18252000 15.4212 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90344543 35.18254215 15.4205 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90286144 35.18248070 15.4188 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90246551 35.18251352 15.4177 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90178518 35.18250955 15.4164 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90430190 35.18276532 15.4233 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90423317 35.18295256 15.4225 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90429922 35.18322565 15.4222 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90426308 35.18346438 15.4216 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90424373 35.18360567 15.4213 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90423214 35.18378203 15.4211 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90415016 35.18410356 15.4205 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90416156 35.18454245 15.4206 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90305635 35.18508475 15.4170 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90255100 35.18499516 15.4155 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90410958 35.18476502 15.4206 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90406888 35.18495445 15.4206 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90404665 35.18507764 15.4207 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90378965 35.18513086 15.4197 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90352437 35.18511708 15.4186 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90182388 35.18419395 15.4135 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90207375 35.18420525 15.4139 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90234429 35.18419849 15.4145 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90266668 35.18427091 15.4152 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90281437 35.18416854 15.4156 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90303624 35.18419308 15.4163 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90323450 35.18420730 15.4169 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90158381 35.18352741 15.4137 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90101618 35.18548511 15.4142 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90276798 35.18472580 15.4157 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90087728 35.18609416 15.4160 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89896655 35.18421949 15.4146 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89967639 35.18633310 15.4175 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89838304 35.18561509 15.4179 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89795322 35.18357487 15.4179 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90179915 35.18516751 15.4143 0.0 0.0 -0.0 
+OBJECT_SHARED Models/Airport/marker.xml 136.937564 35.234761 16.19 180
+OBJECT_SHARED Models/Airport/marker.xml 136.996567 35.142275 31.77 180
 
-#Cant find this Object!
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90091889 35.18345614 15.4133 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90108543 35.18348086 15.4134 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90077330 35.18344792 15.4133 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90058652 35.18342941 15.4133 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90041636 35.18342272 15.4134 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89837443 35.18336462 15.4169 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89872066 35.18333823 15.4160 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89889012 35.18336041 15.4155 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89911583 35.18336112 15.4150 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89933525 35.18338487 15.4146 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89951719 35.18338783 15.4143 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89972549 35.18340151 15.4140 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89991885 35.18341507 15.4137 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90013223 35.18342096 15.4135 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90151912 35.18310308 15.4144 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90151185 35.18291333 15.4149 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90155612 35.18279300 15.4152 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90152302 35.18256408 15.4159 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90155780 35.18239015 15.4165 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90224725 35.18235854 15.4178 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90353307 35.18239720 15.4213 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90233281 35.18531145 15.4155 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90243773 35.18553710 15.4163 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90233805 35.18575820 15.4166 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90178341 35.18572716 15.4156 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89924017 35.18662301 15.4194 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89902279 35.18665527 15.4200 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89878790 35.18662981 15.4204 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89850449 35.18658559 15.4210 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89828828 35.18658332 15.4216 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89804712 35.18654947 15.4223 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89801979 35.18640987 15.4218 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89802377 35.18626419 15.4212 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89804413 35.18607234 15.4204 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89801673 35.18592035 15.4200 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89809132 35.18515466 15.4178 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89811026 35.18503983 15.4176 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89842918 35.18450278 15.4160 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89820317 35.18451011 15.4167 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89817179 35.18442524 15.4168 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89808979 35.18421596 15.4170 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89781090 35.18430303 15.4180 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89775081 35.18427311 15.4182 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89774625 35.18402092 15.4183 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89767512 35.18417601 15.4185 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89882616 35.18648467 15.4197 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89864612 35.18648711 15.4202 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89862511 35.18629514 15.4194 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89864829 35.18619294 15.4190 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89899063 35.18606397 15.4177 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89970202 35.18467877 15.4135 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89977878 35.18447343 15.4132 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89977093 35.18423796 15.4132 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89979193 35.18411148 15.4132 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.89998825 35.18409312 15.4130 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90012645 35.18409209 15.4129 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90026727 35.18409817 15.2086 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90043670 35.18409078 14.6215 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90059224 35.18411420 14.7778 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90119294 35.18489062 15.4132 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90120736 35.18470147 15.4130 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90121349 35.18451946 15.4129 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90123585 35.18433500 15.4129 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90120114 35.18415727 15.4129 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90072843 35.18730646 6.2205 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90078434 35.18702061 6.1893 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90080175 35.18686011 6.1014 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90086216 35.18673914 6.0340 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90139577 35.18674408 6.0234 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90186590 35.18674395 6.0119 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90232745 35.18658358 6.0405 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90264436 35.18632058 5.9409 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90314098 35.18601709 5.8245 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90349130 35.18589752 5.7767 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90375183 35.18592427 5.7829 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90410326 35.18592693 5.7794 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90435036 35.18595205 5.7854 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90260239 35.18240120 15.4184 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90307881 35.18247388 15.4195 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90176991 35.18236369 15.4169 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90205405 35.18238313 15.4173 0.0 0.0 -0.0 
-#OBJECT_SHARED Models/Trees/lime_large.xml 136.90412749 35.18254057 15.4232 0.0 0.0 -0.0 
+OBJECT_SHARED Models/nagoya-tv-tower/nagoya-tv-tower.xml 136.90825001 35.17221396 21.5954 97.3 0.0 -0.0
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90855921 35.17194286 18.5703 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90863088 35.17145976 16.7941 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90868344 35.17107673 15.5427 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90869914 35.17087942 14.6291 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90873872 35.17059288 14.2495 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90876338 35.17040186 14.1023 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90801131 35.17198229 20.0306 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90804158 35.17182146 19.0427 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90806382 35.17169601 18.2683 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90809506 35.17146127 16.6457 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90813206 35.17128001 15.8238 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90816785 35.17106762 15.6429 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90818244 35.17090876 15.5322 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90820652 35.17073255 15.3922 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90823326 35.17053551 15.1737 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90824937 35.17041823 15.1454 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90817367 35.17177565 14.6052 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90842834 35.17161816 14.5947 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90827344 35.17126719 9.2030 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90850371 35.17107870 9.5846 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90835733 35.17071786 10.8146 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90846363 35.17259951 20.9817 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90842589 35.17285884 21.9343 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90840122 35.17312830 22.8946 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90837293 35.17335612 23.7218 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90837498 35.17351773 24.2638 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90796355 35.17242732 22.7499 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90789743 35.17279206 24.9070 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90785956 35.17306357 26.5387 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90783496 35.17325480 27.3104 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90780096 35.17342832 27.9316 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90778286 35.17356767 28.3437 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90831630 35.17271991 16.0670 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90803281 35.17302097 19.5045 0.0 0.0 -0.0 
+ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90814059 35.17341919 19.3939 0.0 0.0 -0.0 
+
+OBJECT_SHARED Models/JRCentralTowers/JRCentralTowers.xml 136.88293919 35.17202074 19.9722 113.9 0.0 -0.0
+OBJECT_SHARED Models/midland-square/midland-square.xml 136.88488734 35.17069805 15.3932 84.0 0.0 -0.0
+OBJECT_SHARED Models/Nagoya_Lucent_Tower/Nagoya_Lucent_Tower.xml 136.88074872 35.17469809 5.2077 304.0 0.0 -0.0
+OBJECT_SHARED Models/Spiral-towers/Spiral-towers.xml 136.88546803 35.16799481 20.9085 100.0 0.0 -0.0
+OBJECT_SHARED Models/dai-nagoya-building/dai-nagoya-building.xml 136.88442465 35.17239781 14.5600 52.0 0.0 -0.0
+OBJECT_SHARED Models/JP_Tower_Nagoya/JP_Tower_Nagoya.xml 136.88233527 35.17331906 9.1585 204.0 0.0 -0.0
+OBJECT_SHARED Models/higashiyama-tower/higashiyama-tower.xml 136.96778437 35.14714704 58.4405 0.0 0.0 -0.0
+OBJECT_SHARED Models/Astro-tower/Astro-tower.xml 136.91239334 35.21707113 4.7681 88.0 0.0 -0.0
+OBJECT_SHARED Models/SOLAE/SOLAE.xml 136.81924736 35.24520261 3.9769 96.0 0.0 -0.0
+
+
+
+OBJECT_SHARED Models/nagoya-castle/nagoya-castle.xml 136.90067921 35.18426424 7.5110 93.3 0.0 -0.0
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90153484 35.18294531 15.4148 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90430018 35.18255668 15.4240 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90390259 35.18251228 15.4224 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90361172 35.18252000 15.4212 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90344543 35.18254215 15.4205 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90286144 35.18248070 15.4188 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90246551 35.18251352 15.4177 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90178518 35.18250955 15.4164 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90430190 35.18276532 15.4233 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90423317 35.18295256 15.4225 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90429922 35.18322565 15.4222 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90426308 35.18346438 15.4216 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90424373 35.18360567 15.4213 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90423214 35.18378203 15.4211 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90415016 35.18410356 15.4205 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90416156 35.18454245 15.4206 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90305635 35.18508475 15.4170 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90255100 35.18499516 15.4155 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90410958 35.18476502 15.4206 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90406888 35.18495445 15.4206 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90404665 35.18507764 15.4207 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90378965 35.18513086 15.4197 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90352437 35.18511708 15.4186 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90182388 35.18419395 15.4135 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90207375 35.18420525 15.4139 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90234429 35.18419849 15.4145 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90266668 35.18427091 15.4152 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90281437 35.18416854 15.4156 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90303624 35.18419308 15.4163 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 136.90323450 35.18420730 15.4169 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90158381 35.18352741 15.4137 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90101618 35.18548511 15.4142 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90276798 35.18472580 15.4157 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90087728 35.18609416 15.4160 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89896655 35.18421949 15.4146 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89967639 35.18633310 15.4175 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89838304 35.18561509 15.4179 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.89795322 35.18357487 15.4179 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/egkk_woods.xml 136.90179915 35.18516751 15.4143 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90091889 35.18345614 15.4133 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90108543 35.18348086 15.4134 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90077330 35.18344792 15.4133 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90058652 35.18342941 15.4133 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90041636 35.18342272 15.4134 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89837443 35.18336462 15.4169 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89872066 35.18333823 15.4160 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89889012 35.18336041 15.4155 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89911583 35.18336112 15.4150 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89933525 35.18338487 15.4146 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89951719 35.18338783 15.4143 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89972549 35.18340151 15.4140 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89991885 35.18341507 15.4137 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90013223 35.18342096 15.4135 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90151912 35.18310308 15.4144 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90151185 35.18291333 15.4149 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90155612 35.18279300 15.4152 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90152302 35.18256408 15.4159 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90155780 35.18239015 15.4165 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90224725 35.18235854 15.4178 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90353307 35.18239720 15.4213 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90233281 35.18531145 15.4155 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90243773 35.18553710 15.4163 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90233805 35.18575820 15.4166 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90178341 35.18572716 15.4156 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89924017 35.18662301 15.4194 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89902279 35.18665527 15.4200 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89878790 35.18662981 15.4204 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89850449 35.18658559 15.4210 0.0 0.0 -0.0 
+      OBJECT_SHARED Models/Trees/lime_large.xml 136.89828828 35.18658332 15.4216 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89804712 35.18654947 15.4223 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89801979 35.18640987 15.4218 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89802377 35.18626419 15.4212 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89804413 35.18607234 15.4204 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89801673 35.18592035 15.4200 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89809132 35.18515466 15.4178 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89811026 35.18503983 15.4176 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89842918 35.18450278 15.4160 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89820317 35.18451011 15.4167 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89817179 35.18442524 15.4168 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89808979 35.18421596 15.4170 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89781090 35.18430303 15.4180 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89775081 35.18427311 15.4182 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89774625 35.18402092 15.4183 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89767512 35.18417601 15.4185 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89882616 35.18648467 15.4197 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89864612 35.18648711 15.4202 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89862511 35.18629514 15.4194 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89864829 35.18619294 15.4190 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89899063 35.18606397 15.4177 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89970202 35.18467877 15.4135 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89977878 35.18447343 15.4132 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89977093 35.18423796 15.4132 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89979193 35.18411148 15.4132 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.89998825 35.18409312 15.4130 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90012645 35.18409209 15.4129 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90026727 35.18409817 15.2086 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90043670 35.18409078 14.6215 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90059224 35.18411420 14.7778 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90119294 35.18489062 15.4132 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90120736 35.18470147 15.4130 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90121349 35.18451946 15.4129 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90123585 35.18433500 15.4129 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90120114 35.18415727 15.4129 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90072843 35.18730646 6.2205 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90078434 35.18702061 6.1893 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90080175 35.18686011 6.1014 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90086216 35.18673914 6.0340 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90139577 35.18674408 6.0234 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90186590 35.18674395 6.0119 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90232745 35.18658358 6.0405 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90264436 35.18632058 5.9409 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90314098 35.18601709 5.8245 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90349130 35.18589752 5.7767 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90375183 35.18592427 5.7829 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90410326 35.18592693 5.7794 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90435036 35.18595205 5.7854 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90260239 35.18240120 15.4184 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90307881 35.18247388 15.4195 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90176991 35.18236369 15.4169 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90205405 35.18238313 15.4173 0.0 0.0 -0.0 
+       OBJECT_SHARED Models/Trees/lime_large.xml 136.90412749 35.18254057 15.4232 0.0 0.0 -0.0 
