@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/chita-power-plant/chita-power-plant.xml 136.84548254 34.98451779 0.5523 0.0 0.0 -0.0
-OBJECT_SHARED Models/chita-power-plant/chita-power-plant2.xml 136.84232324 34.98608690 1.2172 0.0 0.0 -0.0
-OBJECT_SHARED Models/chita-power-plant/chita-power-cube.xml 136.84705914 34.98555839 1.6455 60.0 0.0 -0.0
-OBJECT_SHARED Models/chita-power-plant/chita-power-plant.xml 136.86263061 35.00745639 0.5440 0.0 0.0 -0.0
+OBJECT_STATIC Models/chita-power-plant/chita-power-plant.xml 136.84548254 34.98451779 0.5523 0.0 0.0 -0.0
+OBJECT_STATIC Models/chita-power-plant/chita-power-plant2.xml 136.84232324 34.98608690 1.2172 0.0 0.0 -0.0
+OBJECT_STATIC Models/chita-power-plant/chita-power-cube.xml 136.84705914 34.98555839 1.6455 60.0 0.0 -0.0
+OBJECT_STATIC Models/chita-power-plant/chita-power-plant.xml 136.86263061 35.00745639 0.5440 0.0 0.0 -0.0
