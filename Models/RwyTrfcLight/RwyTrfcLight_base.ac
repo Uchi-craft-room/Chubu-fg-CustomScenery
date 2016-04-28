@@ -1,0 +1,63 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "Material" rgb 0.85 0.85 0.85 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.56 0.56 0.56 shi 32 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "light_base"
+data 4
+Cube
+crease 30.000000
+numvert 8
+1 -11.594003 -299.198914
+1 -11.594003 298.71283
+-1 -11.594003 298.71283
+-1 -11.594003 -299.198914
+1 1 -299.198914
+0.999999 1 298.71283
+-1 1 298.71283
+-1 1 -299.198914
+numsurf 6
+SURF 0x20
+mat 1
+refs 4
+0 0 0
+1 0 0
+2 0 0
+3 0 0
+SURF 0x20
+mat 1
+refs 4
+4 0 0
+7 0 0
+6 0 0
+5 0 0
+SURF 0x20
+mat 1
+refs 4
+0 0 0
+4 0 0
+5 0 0
+1 0 0
+SURF 0x20
+mat 1
+refs 4
+1 0 0
+5 0 0
+6 0 0
+2 0 0
+SURF 0x20
+mat 1
+refs 4
+2 0 0
+6 0 0
+7 0 0
+3 0 0
+SURF 0x20
+mat 1
+refs 4
+4 0 0
+0 0 0
+3 0 0
+7 0 0
+kids 0
