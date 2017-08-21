@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<groundnet>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name="PORT"
+             number="1"
+             lat="N34 51.57"
+             lon="E136 49.3"
+             heading="76"
+             radius="0.0"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="PORT"
+             number="2"
+             lat="N34 51.50"
+             lon="E136 49.5"
+             heading="160"
+             radius="0.0"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+
+    <Parking index="2"
+             type="gate"
+             name=""
+             number="101"
+             lat="N34 51.875"
+             lon="E136 48.585"
+             heading="76"
+             radius="0.0"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name=""
+             number="3"
+             lat="N34 51.8"
+             lon="E136 48.72"
+             heading="76"
+             radius="0.0"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+
+
+  </parkingList>
+</groundnet>
+
+
+
+
+
+
