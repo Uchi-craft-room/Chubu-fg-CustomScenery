@@ -9,11 +9,6 @@
     <object-name>red-lamp-bright</object-name>
    </effect>
 
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
 
   <animation> 
     <type>textranslate</type> 

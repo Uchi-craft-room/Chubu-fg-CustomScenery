@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/tacan.xml 137.71 34.747222 47.69 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 137.680658 34.747869 41.44 180
+OBJECT_SHARED Models/Act-tower/act-tower.xml 137.73756085 34.70550217 13.0495 108.0 0.0 -0.0

@@ -3,11 +3,6 @@
 <PropertyList>
 	<path>Astro-tower.ac</path>
 
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
 
   <animation> 
     <type>textranslate</type> 
@@ -21,7 +16,7 @@
      <z-m> 0 </z-m>
     </center>
     <axis> 
-      <x>  1 </x> 
+      <x> -1 </x> 
       <y>  0 </y> 
       <z>  0 </z> 
     </axis> 

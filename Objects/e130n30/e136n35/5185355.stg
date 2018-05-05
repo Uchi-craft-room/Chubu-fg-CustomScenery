@@ -49,7 +49,7 @@ OBJECT_SHARED Models/JP_Tower_Nagoya/JP_Tower_Nagoya.xml 136.88233527 35.1733190
 OBJECT_SHARED Models/higashiyama-tower/higashiyama-tower.xml 136.96778437 35.14714704 58.4405 0.0 0.0 -0.0
 OBJECT_SHARED Models/Astro-tower/Astro-tower.xml 136.91239334 35.21707113 4.7681 88.0 0.0 -0.0
 OBJECT_SHARED Models/SOLAE/SOLAE.xml 136.81924736 35.24520261 3.9769 96.0 0.0 -0.0
-
+OBJECT_SHARED Models/Grovalgate/Grovalgate.xml 136.88373057 35.16151636 0.2371 196.9 0.0 -0.0
 
 
 OBJECT_SHARED Models/nagoya-castle/nagoya-castle.xml 136.90067921 35.18426424 7.5110 93.3 0.0 -0.0

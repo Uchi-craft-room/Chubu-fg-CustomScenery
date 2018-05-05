@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/Airport/ndb.xml 136.926411 34.752058 15.86 180
+OBJECT_SHARED Models/Airport/ndb.ac 136.926411 34.752058 15.86 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 136.803169 34.858006 -0.01 180
 
 OBJECT_SHARED Models/Airport/windsock.xml 136.803549 34.871731 0.0 0.00
@@ -45,9 +45,7 @@ OBJECT_SHARED Models/Aircraft/777-300-Thai.xml 136.81163317 34.85733810 -0.0049 
 OBJECT_SHARED Models/Aircraft/777-300-JAL.xml 136.81311949 34.85742914 -0.0041 316.3 0.0 -0.0 
 OBJECT_SHARED Models/Aircraft/767-JAL.xml 136.81254483 34.86079063 3.2524 280.0 0.0 -0.0 
 OBJECT_SHARED Models/Aircraft/fedex310.xml 136.80923840 34.86735832 1.2981 279.2 0.0 -0.0 
-OBJECT_SHARED Models/Aircraft/320austrian.xml 137.04341370 34.65619785 -0.3972 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Aircraft/320austrian.xml 136.55065396 35.36557598 -0.3972 0.0 0.0 -0.0 
-OBJECT_SHARED Models/Aircraft/a340-aircanada.xml 136.81144182 34.85484613 0.4374 104.0 0.0 -0.0 
+OBJECT_SHARED Models/Aircraft/a340-lufthansa.xml 136.81144182 34.85484613 0.4374 104.0 0.0 -0.0 
 
  OBJECT_SHARED Models/pole_light/pole_light.xml 136.81130589 34.85152437 -0.0019 0.0 0.0 -0.0 
  OBJECT_SHARED Models/pole_light/pole_light.xml 136.81196904 34.85162253 -0.0032 0.0 0.0 -0.0 
@@ -119,13 +117,9 @@ OBJECT_SHARED Models/Aircraft/a340-aircanada.xml 136.81144182 34.85484613 0.4374
  OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 136.81363217 34.85640802 -0.0036 0.0 0.0 -0.0 
  OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 136.81400390 34.85503299 -0.0036 0.0 0.0 -0.0 
 
-<!-- POWER PLANT -->
-OBJECT_SHARED Models/hekinan-power-plant/hekinan-power-plant.xml 136.95935523 34.83288572 -0.0058 0.0 0.0 -0.0
-OBJECT_SHARED Models/hekinan-power-plant/hekinan-power-plant2.xml 136.95935968 34.83619394 11.3735 0.0 0.0 -0.0
-OBJECT_SHARED Models/hekinan-power-plant/hekinan-power-cube.xml 136.96238921 34.83271295 -0.0050 0.0 0.0 -0.0
 
-<!-- RANWAY LIGHTING -->
- OBJECT_SHARED Models/RwyTrfcLight/RwyTrfcLight_base.ac 136.81041386 34.83741626 -0.9824 281.2 -0.0 --0.0
+
+ OBJECT_SHARED Models/RwyTrfcLight/RwyTrfcLight_base.ac 136.81041386 34.83741626 -0.9824 281.2 -0.0 -0.0
  OBJECT_SHARED Models/RwyTrfcLight/RwyTrfcLight3.ac 136.80917747 34.84259273 -3.5485 280.0 0.0 -0.0 
  OBJECT_SHARED Models/RwyTrfcLight/RwyTrfcLight3.ac 136.80924097 34.84232804 -3.4803 283.0 0.0 -0.0 
  OBJECT_SHARED Models/RwyTrfcLight/RwyTrfcLight3.ac 136.80930402 34.84206383 -3.5915 280.0 0.0 -0.0 

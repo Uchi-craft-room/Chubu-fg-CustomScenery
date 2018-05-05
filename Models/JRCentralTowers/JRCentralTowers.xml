@@ -3,12 +3,6 @@
 <PropertyList>
 	<path>JRCentralTowers.ac</path>
 
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-
   <animation> 
     <type>textranslate</type> 
       <object-name>towers</object-name>
@@ -21,8 +15,8 @@
      <z-m> 0 </z-m>
     </center>
     <axis> 
-      <x>  0 </x> 
-      <y>  1 </y> 
+      <x> -1 </x> 
+      <y>  0 </y> 
       <z>  0 </z> 
     </axis> 
   </animation>
