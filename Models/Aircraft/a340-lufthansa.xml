@@ -10,23 +10,7 @@
     <max-property>sim/rendering/static-lod/bare</max-property>
   </animation>
 	
-  <animation> 
-    <type>textranslate</type> 
-    <object-name>jour</object-name> 
-    <property>/sim/time/sun-angle-rad</property>
-    <step> 1.57 </step>
-    <factor>0.318471338</factor>
-    <center>
-     <x-m> 0 </x-m>
-     <y-m> 0 </y-m>
-     <z-m> 0 </z-m>
-    </center>
-    <axis> 
-      <x> -1 </x> 
-      <y>  0 </y> 
-      <z>  0 </z> 
-    </axis> 
-  </animation>
+
 
   <animation>
     <type>material</type>
@@ -38,9 +22,9 @@
       </greater-than>
     </condition>
     <emission>
-      <red>   1.0 </red>
-      <green> 1.0 </green>
-      <blue>  1.0 </blue>
+      <red>   0.3 </red>
+      <green> 0.3 </green>
+      <blue>  0.3 </blue>
     </emission>
   </animation>
 
