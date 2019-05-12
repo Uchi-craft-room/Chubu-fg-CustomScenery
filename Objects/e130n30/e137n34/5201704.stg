@@ -7,4 +7,5 @@ OBJECT_SHARED Models/Power/windturbine.xml 137.05162923 34.63640720 6.3855 0.0 0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05279329 34.63865572 6.1219 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05345143 34.64001773 1.9438 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/windturbine.xml 137.05214530 34.63743198 7.6974 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 137.048 34.7117 -0.32 166.64
 

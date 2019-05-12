@@ -1,1 +1,4 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml 136.957947 34.704631 0 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 136.992 34.7 -0.1 320.35
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 136.977 34.7 -0.05 296.29
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 136.978 34.6283 -2.95 349.5
